@@ -1,0 +1,14 @@
+.cem-events {
+    padding: 10px;
+    background: #f9f9f9;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+.cem-event {
+    margin-bottom: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+.cem-event h3 {
+    margin: 0 0 5px;
+}

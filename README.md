@@ -30,9 +30,6 @@ event-management/
 │ └── script.js
 └── readme.txt
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -53,7 +50,11 @@ Edit
 
 ---
 
-## 🖼️ Screenshots
+
+## 📸 Screenshots
+
+![Admin Page](screenshots/admin-page.png)
+![Create Event](screenshots/Create-event.png)
 
 _Add screenshots of the admin page and event listing (optional)_
 

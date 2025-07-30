@@ -1,60 +1,92 @@
-📅 Event Manager Plugin for WordPress
-A custom lightweight WordPress plugin to manage and display events using a custom post type and shortcode. Perfect for websites that need to list upcoming events, seminars, webinars, or workshops.
+# 📅 Custom Event Management Plugin – WordPress
 
-🛠️ Features
-Custom Post Type: Event
+A simple and lightweight WordPress plugin that allows admins to create and manage events directly from the WordPress dashboard.
 
-Shortcode: [event_manager] to display events on any page/post
+> Built for learning and showcasing WordPress plugin development – ideal for rtCamp shortlisting.
 
-Clean and minimal front-end display
+---
 
-Easy to extend and customize
+## 🚀 Features
 
-Responsive event layout with simple CSS
+- Custom Post Type for Events
+- Admin Menu Page: Manage Events
+- Clean and minimal UI
+- Custom CSS/JS integration
+- Fully functional from WordPress Dashboard
 
-📦 Installation
-Download ZIP: event-manager-plugin.zip
+---
 
-Upload to WordPress:
+## 📁 Folder Structure
 
-Go to your WordPress dashboard → Plugins → Add New
-
-Click on Upload Plugin and choose the downloaded ZIP file
-
-Click Install Now, then Activate
-
-Create Events:
-
-Go to Events in your WordPress dashboard
-
-Add new events with title and content
-
-🧩 Usage
-Place the following shortcode in any page or post:
-
-php
-Copy
-Edit
-[event_manager]
-This will display the 5 most recent events in ascending order by date.
-
-🧱 Folder Structure
-arduino
-Copy
-Edit
-event-manager-plugin/
-├── event-manager.php
+event-management/
+├── event-management.php
 ├── includes/
-│   ├── register-post-type.php
-│   └── shortcode-display.php
-├── assets/
-│   └── css/
-│       └── style.css
-└── screenshots/
-🏷️ Tags
-wordpress plugin custom-post-type event-manager shortcode php
+│ └── event-post-type.php
+├── admin/
+│ └── event-admin-page.php
+├── css/
+│ └── style.css
+├── js/
+│ └── script.js
+└── readme.txt
 
-👨‍💻 Author
+yaml
+Copy
+Edit
+
+---
+
+## 💻 Tech Stack
+
+- PHP
+- WordPress Plugin API
+- HTML, CSS, JavaScript
+
+---
+
+## 🛠️ Installation
+
+1. Download the plugin or clone this repo.
+2. Copy the `event-management` folder into your WordPress `/wp-content/plugins/` directory.
+3. Go to WordPress Admin → Plugins → Activate **Custom Event Management** plugin.
+4. A new **"Events"** menu will appear on the admin dashboard.
+
+---
+
+## 🖼️ Screenshots
+
+_Add screenshots of the admin page and event listing (optional)_
+
+📃 License
+This project is licensed under the MIT License.
+
+🙋‍♀️ Author
 Prithi Babu
-GitHub: @prithi2004
+🔗 GitHub
+🔗 LinkedIn
+🎯 Aspiring WordPress Engineer | Open-source Contributor
 
+yaml
+Copy
+Edit
+
+---
+
+### ✅ What To Do Now:
+
+1. Go to your repo → Click `README.md` → ✏️ Edit  
+2. Replace it with the above content  
+3. Click **Commit changes**
+
+---
+
+### 🔁 Next: Make Your First PR Today?
+
+Let’s continue by submitting your **first open-source pull request**.  
+Want me to help you right now with the [LinkFree](https://github.com/EddieHubCommunity/LinkFree) PR?
+
+✅ Reply with: `yes, help me with PR now`  
+or  
+✅ Tell me once your README is updated so I can check it.
+
+Let’s finish Day 3 strong!

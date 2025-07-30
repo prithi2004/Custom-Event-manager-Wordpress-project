@@ -53,8 +53,8 @@ event-management/
 
 ## 📸 Screenshots
 
-![Admin Page](screenshots/admin-page.png)
-![Create Event](screenshots/Create-event.png)
+![Admin Page](screenshots/adminpage.png)
+![Create Event](screenshots/Create-event.jpg)
 
 _Add screenshots of the admin page and event listing (optional)_
 

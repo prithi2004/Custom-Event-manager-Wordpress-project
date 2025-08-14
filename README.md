@@ -28,7 +28,6 @@ event-management/
 │ └── script.js
 └── readme.txt
 
-
 ---
 
 ## 💻 Tech Stack

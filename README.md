@@ -4,7 +4,6 @@ A simple and lightweight WordPress plugin that allows admins to create and manag
 
 > Built for learning and showcasing WordPress plugin development – ideal for rtCamp shortlisting.
 ---
-
 ## 🚀 Features
 
 - Custom Post Type for Events

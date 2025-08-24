@@ -59,7 +59,6 @@ Prithi Babu
 🔗 GitHub
 🔗 LinkedIn
 🎯 Aspiring WordPress Engineer | Open-source Contributor
-
 yaml
 Copy
 Edit

@@ -2,8 +2,7 @@
 
 A simple and lightweight WordPress plugin that allows admins to create and manage events directly from the WordPress dashboard.
 
-> Built for learning and showcasing WordPress plugin development – ideal for rtCamp shortlisting.
----
+> Built for learning and showcasing WordPress plugin development 
 ## 🚀 Features
 
 - Custom Post Type for Events

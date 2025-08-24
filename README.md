@@ -63,7 +63,6 @@ Copy
 Edit
 ---
 ### ✅ What To Do Now:
-
 1. Go to your repo → Click `README.md` → ✏️ Edit  
 2. Replace it with the above content  
 3. Click **Commit changes**

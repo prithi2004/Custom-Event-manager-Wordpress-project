@@ -4,7 +4,6 @@ A simple and lightweight WordPress plugin that allows admins to create and manag
 
 > Built for learning and showcasing WordPress plugin development 
 ## 🚀 Features
-
 - Custom Post Type for Events
 - Admin Menu Page: Manage Events
 - Clean and minimal UI

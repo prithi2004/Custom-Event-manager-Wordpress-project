@@ -9,7 +9,6 @@ A simple and lightweight WordPress plugin that allows admins to create and manag
 - Clean and minimal UI
 - Custom CSS/JS integration
 - Fully functional from WordPress Dashboard
-
 ---
 ## 📁 Folder Structure
 

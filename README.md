@@ -68,7 +68,6 @@ Edit
 2. Replace it with the above content  
 3. Click **Commit changes**
 ---
-
 ### 🔁 Next: Make Your First PR Today?
 
 Let’s continue by submitting your **first open-source pull request**.  

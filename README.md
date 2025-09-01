@@ -42,7 +42,6 @@ event-management/
 
 ---
 
-
 ## 📸 Screenshots
 
 ![Admin Page](screenshots/adminpage.png)

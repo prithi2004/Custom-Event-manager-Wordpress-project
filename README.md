@@ -69,7 +69,6 @@ Edit
 
 Let’s continue by submitting your **first open-source pull request**.  
 Want me to help you right now with the [LinkFree](https://github.com/EddieHubCommunity/LinkFree) PR?
-
 ✅ Reply with: `yes, help me with PR now`  
 or  
 ✅ Tell me once your README is updated so I can check it.

@@ -10,7 +10,6 @@ A simple and lightweight WordPress plugin that allows admins to create and manag
 - Fully functional from WordPress Dashboard
 ---
 ## 📁 Folder Structure
-
 event-management/
 ├── event-management.php
 ├── includes/

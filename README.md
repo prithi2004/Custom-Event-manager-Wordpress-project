@@ -41,7 +41,6 @@ event-management/
 4. A new **"Events"** menu will appear on the admin dashboard.
 
 ---
-
 ## 📸 Screenshots
 
 ![Admin Page](screenshots/adminpage.png)

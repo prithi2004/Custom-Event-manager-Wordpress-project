@@ -29,7 +29,6 @@ event-management/
 - HTML, CSS, JavaScript
 
 ---
-
 ## 🛠️ Installation
 
 1. Download the plugin or clone this repo.

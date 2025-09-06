@@ -38,7 +38,6 @@ event-management/
 2. Copy the `event-management` folder into your WordPress `/wp-content/plugins/` directory.
 3. Go to WordPress Admin → Plugins → Activate **Custom Event Management** plugin.
 4. A new **"Events"** menu will appear on the admin dashboard.
-
 ---
 ## 📸 Screenshots
 

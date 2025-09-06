@@ -23,7 +23,6 @@ event-management/
 └── readme.txt
 
 ---
-
 ## 💻 Tech Stack
 
 - PHP

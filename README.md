@@ -68,4 +68,4 @@ Want me to help you right now with the [LinkFree](https://github.com/EddieHubCom
 or  
 ✅ Tell me once your README is updated so I can check it.
 
-Let’s finish Day 3 strong!
+

@@ -38,3 +38,41 @@ This project demonstrates **WordPress plugin development** using PHP, MySQL, and
 
 ![Admin Page](screenshots/adminpage.png)
 ![Create Event](screenshots/Create-event.jpg)
+
+🎯 Use Cases
+
+Colleges or schools to manage seminars & workshops.
+
+Companies to display webinars or training sessions.
+
+Event organizers to promote local events on WordPress sites.
+
+📈 Future Improvements
+
+🔹 Add event registration with attendee tracking.
+
+🔹 Enable Google Calendar integration.
+
+🔹 Improve frontend design with AJAX search/filter.
+
+🧑‍💻 Author
+
+Prithi
+
+GitHub: @prithi2004
+
+Portfolio: Add your portfolio link here
+
+LinkedIn: Add your LinkedIn profile here
+
+📜 License
+
+This project is licensed under the MIT License. Feel free to use and improve it.
+
+
+---
+
+✅ This README is **job-ready**: it highlights **WordPress skills, PHP, plugin dev, MySQL**, and shows a clear professional structure.  
+
+Do you want me to also create a **custom README for your “Restaurant-Website-WordPress-Project”** so your **top 2 repos** are polished before applying to rtCamp?
+

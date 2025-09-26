@@ -1,71 +1,31 @@
-# 📅 Custom Event Management Plugin – WordPress
+# 🎉 Custom Event Manager – WordPress Plugin  
 
-A simple and lightweight WordPress plugin that allows admins to create and manage events directly from the WordPress dashboard.
-> Built for learning and showcasing WordPress plugin development 
-## 🚀 Features
-- Custom Post Type for Events
-- Admin Menu Page: Manage Events
-- Clean and minimal UI
-- Custom CSS/JS integration
-- Fully functional from WordPress Dashboard
----
-## 📁 Folder Structure
-event-management/
-├── event-management.php
-├── includes/
-│ └── event-post-type.php
-├── admin/
-│ └── event-admin-page.php
-├── css/
-│ └── style.css
-├── js/
-│ └── script.js
-└── readme.txt
----
-## 💻 Tech Stack
-
-- PHP
-- WordPress Plugin API
-- HTML, CSS, JavaScript
+## 📌 Overview  
+The **Custom Event Manager** is a WordPress plugin developed to manage events efficiently.  
+It allows admins to create, edit, and delete events, display event details on the website, and track attendees.  
+This project demonstrates **WordPress plugin development** using PHP, MySQL, and WordPress hooks.  
 
 ---
-## 🛠️ Installation
 
-1. Download the plugin or clone this repo.
-2. Copy the `event-management` folder into your WordPress `/wp-content/plugins/` directory.
-3. Go to WordPress Admin → Plugins → Activate **Custom Event Management** plugin.
-4. A new **"Events"** menu will appear on the admin dashboard.
+## ✨ Features  
+- ✅ Admin can **add, edit, and delete events**.  
+- ✅ Event details include **title, description, date, time, and venue**.  
+- ✅ Frontend display of upcoming events with user-friendly UI.  
+- ✅ Database integration for storing event details.  
+- ✅ Shortcode support to display events anywhere on the site.  
+- ✅ Built with **PHP, WordPress APIs, and MySQL**.  
+
 ---
-## 📸 Screenshots
 
-![Admin Page](screenshots/adminpage.png)
-![Create Event](screenshots/Create-event.jpg)
+## 🛠️ Tech Stack  
+- **Language**: PHP, JavaScript, HTML, CSS  
+- **Database**: MySQL  
+- **Platform**: WordPress  
+- **Tools**: XAMPP / LocalWP, Git  
 
-_Add screenshots of the admin page and event listing (optional)_
-
-📃 License
-This project is licensed under the MIT License.
-
-🙋‍♀️ Author
-Prithi Babu
-🔗 GitHub
-🔗 LinkedIn
-🎯 Aspiring WordPress Engineer | Open-source Contributor
-yaml
-Copy
-Edit
 ---
-### ✅ What To Do Now:
-1. Go to your repo → Click `README.md` → ✏️ Edit  
-2. Replace it with the above content  
-3. Click **Commit changes**
----
-### 🔁 Next: Make Your First PR Today?
 
-Let’s continue by submitting your **first open-source pull request**.  
-Want me to help you right now with the [LinkFree](https://github.com/EddieHubCommunity/LinkFree) PR?
-✅ Reply with: `yes, help me with PR now`  
-or  
-✅ Tell me once your README is updated so I can check it.
-
-
+## ⚙️ Installation & Setup  
+1. Clone or download this repository:  
+   ```bash
+   git clone https://github.com/prithi2004/Custom-Event-Manager-WordPress-Project.git

@@ -29,3 +29,8 @@ This project demonstrates **WordPress plugin development** using PHP, MySQL, and
 1. Clone or download this repository:  
    ```bash
    git clone https://github.com/prithi2004/Custom-Event-Manager-WordPress-Project.git
+2.Copy the plugin folder into your WordPress wp-content/plugins/ directory.
+
+3.Activate the plugin from the WordPress Dashboard → Plugins section.
+
+4.Use the shortcode [custom_events] on any page/post to display events.

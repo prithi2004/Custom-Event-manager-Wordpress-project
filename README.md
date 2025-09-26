@@ -34,3 +34,7 @@ This project demonstrates **WordPress plugin development** using PHP, MySQL, and
 3.Activate the plugin from the WordPress Dashboard → Plugins section.
 
 4.Use the shortcode [custom_events] on any page/post to display events.
+## 📸 Screenshots
+
+![Admin Page](screenshots/adminpage.png)
+![Create Event](screenshots/Create-event.jpg)
